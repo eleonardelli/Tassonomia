@@ -1,13 +1,14 @@
 # Topic Modelling PA – BERTopic
 
-Repository per l’analisi e la descrizione dei **topic** relativi ad azioni della Pubblica Amministrazione italiana, usando **BERTopic**.  
-Include notebook annotato in italiano e funzioni per dendrogrammi, clustering gerarchico e *merge* dei topic.
+Repository per la creazione e l'analisi di un tassononmia relativa ad azioni, usando **BERTopic**.  
+Include notebook commentato in italiano, modello precalcolato, e funzioni per dendrogrammi, clustering gerarchico e *merge* dei topic.
 
 ## Contenuti del repo
-- `topics_modelling_descrizione_gitcommented.ipynb` – Notebook principale **commentato in italiano** (pronto per GitHub).
-- `Dendrogram_100_topics.html` (opzionale) – Esempio di dendrogramma interattivo.
-- Cartella `Models/` – Dove salvare/caricare i modelli BERTopic.
-- (facoltativo) `data/` – Sorgenti dati/documenti.
+- `model_generation.ipynb` – Notebook *commentato in italiano**
+- `taxonomy_visualization.ipynb` – Notebook *commentato in italiano**
+- `Dendrogram_100_topics.html` (opzionale) – Esempio del dendrogramma generato.
+- Cartella `Models/` – Modello BERTopic della tassonomia presentata 
+
 
 ## Requisiti
 - **Python** ≥ 3.10
