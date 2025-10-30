@@ -6,12 +6,15 @@ A partire dal database delle azioni presentate nei piani comunali, è stato impl
 
 
 ## Contenuti 
+1) `requirements.txt`
+2) `model_generation.ipynb` – Notebook per generare il modello di topic-modeling. 
+2) Cartella `TopicModelling_TitoloDescrizione_100topics` in questa cartella sono salvati i risultati del modello generato in 1. con parametri n. classi = 100, testo in input: titolo e descrizione delle azioni. A partire da circa 17k azioni. 
+  2.1 sottocartella `model` in questa cartella è salvato il modello generato in 1)
+  2.2 `topics_overview.tsv`
+2) Cartella `\results\` in questa cartella è salvato il modello generato in 1) con parametri n. classi = 100, testo in input: titolo e descrizione delle azioni. A partire da circa 17k azioni.
+3) `taxonomy_visualization.ipynb` – Notebook che carica il modello salvato in `\model\` e genera varie visualizzazioni
+4) `Dendrogram_taxonomy.html` , `Dendrogram_taxonomy_reanmed.html` Dendrogramma delle categorie, dendrogramma delle categorie rinominate tramite LLM (generate in 3.
 
-1) `model_generation.ipynb` – Notebook per generare il modello di topic-modeling. 
-2) Cartella `\model\` in questa cartella è salvato il modello generato in 1) con parametri n. classi = 100, testo in input: titolo e descrizione delle azioni. A partire da circa 17k azioni.
-3) `taxonomy_visualization.ipynb` – Notebook che carica il modello salvato in 2) e generato in 1), e permette di generare le visualizzazioni 4)
-4) `Dendrogram_100_topics.html` Dendrogramma delle categorie, dendrogramma delle categorie rinominate tramite LLM 
-5) `requirements.txt`
 
 
 ## Dati
