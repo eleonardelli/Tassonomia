@@ -16,3 +16,7 @@ A partire dal database delle azioni presentate nei piani comunali, è stato impl
 
 
 ## OUTPUT
+
+<p align="center">
+  <img src="img/tassonomia.png" alt="Diagramma" width="480">
+</p>
