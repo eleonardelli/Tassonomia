@@ -15,7 +15,9 @@ Modificando parametri quali il numero di classi richiesto, o il testo utilizzato
 ## Output 2: tassonomia per macro-categorie
 Il raggruppamento per macro cagorie ha identificato le seguenti aree. Modificando la soglia a cui si "taglia" la tassonomia, si potranno ottenere diversi livelli di granularità.
 
-**Macro categoria 1: Servizi Comunitari e Educativi Locali:** Gestione Impianti Sportivi, Gestione Spazi Comunitari, Attività Culturali e Spettacoli, Promozione Turistica e Culturale, Promozione della lettura infantile, Sostegno alla Genitorialità, Educazione Civica e Cittadinanza Attiva, Sostegno Attività Estive Minori, Attività Estive Giovanili, Sviluppo e Collaborazione Locale, Supporto e Promozione Familiare, Partecipazione Civica Attiva, Supporto Educativo Scolastico, Servizi educativi per l'infanzia  
+
+**Macro categoria 1: Servizi Comunitari e Educativi Locali:** 
+  -> sottocategorie: Gestione Impianti Sportivi, Gestione Spazi Comunitari, Attività Culturali e Spettacoli, Promozione Turistica e Culturale, Promozione della lettura infantile, Sostegno alla Genitorialità, Educazione Civica e Cittadinanza Attiva, Sostegno Attività Estive Minori, Attività Estive Giovanili, Sviluppo e Collaborazione Locale, Supporto e Promozione Familiare, Partecipazione Civica Attiva, Supporto Educativo Scolastico, Servizi educativi per l'infanzia
 **Macro categoria 2: Servizi Educativi e Welfare Estivo:** Attività Estive per Bambini, Gestione Servizi Educativi Estivi, Politiche di Welfare Lavorativo  
 **Macro categoria 3: Servizi e tariffe asili nido:** Servizi per l'infanzia, Gestione Tariffe Asili Nido  
 **Macro categoria 4: Servizi di assistenza e cooperazione infantile:** Servizi di assistenza all'infanzia, Servizi di Assistenza e Cooperazione  
