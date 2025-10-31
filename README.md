@@ -11,6 +11,105 @@ A partire dal database delle azioni presentate nei piani comunali, è stato impl
   <img src="img/tassonomia.png" alt="Diagramma" width="480">
 </p>
 
+# Macro categorie e sotto-categorie
+
+### Macro categoria 1 — Servizi Comunitari e Educativi Locali
+- Gestione Impianti Sportivi
+- Gestione Spazi Comunitari
+- Attività Culturali e Spettacoli
+- Promozione Turistica e Culturale
+- Promozione della lettura infantile
+- Sostegno alla Genitorialità
+- Educazione Civica e Cittadinanza Attiva
+- Sostegno Attività Estive Minori
+- Attività Estive Giovanili
+- Sviluppo e Collaborazione Locale
+- Supporto e Promozione Familiare
+- Partecipazione Civica Attiva
+- Supporto Educativo Scolastico
+- Servizi educativi per l'infanzia
+
+### Macro categoria 2 — Servizi Educativi e Welfare Estivo
+- Attività Estive per Bambini
+- Gestione Servizi Educativi Estivi
+- Politiche di Welfare Lavorativo
+
+### Macro categoria 3 — Servizi e tariffe asili nido
+- Servizi per l'infanzia
+- Gestione Tariffe Asili Nido
+
+### Macro categoria 4 — Servizi di assistenza e cooperazione infantile
+- Servizi di assistenza all'infanzia
+- Servizi di Assistenza e Cooperazione
+
+### Macro categoria 5 — Gestione Rifiuti, Tariffe e Tasse
+- Gestione Rifiuti e Tasse Locali
+- Gestione Tariffe e Agevolazioni
+- Gestione Rifiuti Sanitari
+
+### Macro categoria 6 — Sostegno Famiglie e Neonati
+- Sostegno Famiglie e Neonati
+- Kit di benvenuto per neonati
+- Sostegno Famiglie con Neonati
+
+### Macro categoria 7 — Sostegno Familiare e Domestico
+- Sostegno Neogenitori e Nascita
+- Sostegno Fornitura Energetica Domestica
+
+### Macro categoria 8 — Gestione Alloggi e Politiche Abitative
+- Gestione emergenza profughi
+- Gestione Alloggi e Abitazioni
+- Agevolazioni fiscali abitazione
+
+### Macro categoria 9 — Servizi Assistenza e Inclusione Sociale
+- Supporto Abitativo Inclusivo Disabili
+- Assistenza Domiciliare Anziani
+- Inserimento Lavorativo Categorie Deboli
+
+### Macro categoria 10 — Gestione Emergenza COVID e Vaccini
+- Assistenza Abitativa Emergenza COVID
+- Gestione Vaccinazioni Anticovid
+
+### Macro categoria 11 — Servizi Sanitari e Pediatrici
+- Servizi Sanitari e Farmaceutici
+- Servizi Sanitari Pediatrici
+
+### Macro categoria 12 — Prevenzione, Educazione e Salute Sociale
+- Prevenzione e contrasto bullismo
+- Prevenzione e contrasto dipendenze
+- Attività Educative e Sociali
+- Iniziative contro violenza di genere
+- Prevenzione e Salute Femminile
+
+### Macro categoria 13 — Gestione Sostenibile Aree e Mobilità
+- Gestione Percorsi Turistici
+- Gestione Percorsi Naturalistici
+- Educazione Ambientale Scolastica
+- Gestione e Sostenibilità Ambientale
+- Infrastrutture per Mobilità Ciclistica Sostenibile
+- Sicurezza Stradale Pedonale
+- Gestione Aree Verdi Urbane
+
+### Macro categoria 14 — Gestione Sicurezza Ambientale ed Urbana
+- Gestione Ambientale ed Energetica
+- Gestione Sicurezza Camini
+- Sicurezza e Sorveglianza Urbana
+
+### Macro categoria 15 — Attività Sportive e Benessere Invernale
+- Attività per il Benessere Fisico e Mentale
+- Attività Sportive e Ricreative
+- Attività Invernali e Skipass
+
+### Macro categoria 16 — Gestione Strutture Sportive Comunali
+- Servizi Natatori Agevolati
+- Gestione Impianti Sportivi e Tariffe
+- Strutture Sportive Comunali
+
+### Macro categoria 17 — Servizi Trasporto e Accompagnamento
+- Agevolazioni Trasporto Turistico
+- Servizi di Accompagnamento Scolastico
+
+### Macro categoria 18 — Servizi Welfare e Infan
 
 ## Contenuti della repository
 
