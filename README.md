@@ -109,8 +109,66 @@ A partire dal database delle azioni presentate nei piani comunali, è stato impl
 - Agevolazioni Trasporto Turistico
 - Servizi di Accompagnamento Scolastico
 
-### Macro categoria 18 — Servizi Welfare e Infan
+### Macro categoria 18 — Servizi Welfare e Infanzia Familiare
+- Servizi di Welfare Aziendale
+- Servizi per l'infanzia
+- Servizi per Genitori e Bambini
 
+### Macro categoria 19 — Servizi Digitali e Alfabetizzazione Pubblica
+- Accesso Internet Pubblico
+- Servizi Bibliotecari Digitali
+- Alfabetizzazione Digitale Intergenerazionale
+
+### Macro categoria 20 — Gestione Servizi Pubblici e Reclami
+- Gestione Reclami e Segnalazioni
+- Gestione Orari Uffici Pubblici
+
+### Macro categoria 21 — Integrazione, Supporto, Formazione, Cittadinanza, Comunità
+- Supporto Organizzativo e Sociale
+- Integrazione e Cittadinanza Attiva
+- Formazione Linguistica Specializzata
+
+### Macro categoria 22 — Assistenza Sociale e Distribuzione Alimenti
+- Assistenza e Accoglienza Sociale
+- Distribuzione Alimenti Solidale
+
+### Macro categoria 23 — Gestione Rifiuti, Assistenza, Educazione, Promozione Sociale
+- Gestione Rifiuti e Assistenza Domiciliare
+- Promozione Educativa e Sociale
+
+### Macro categoria 24 — Sviluppo Comunitario e Gestione Locale
+- Gestione Risorse e Spazi Locali
+- Attività Intergenerazionali Comunitarie
+- Promozione Attività Giovanili Comunitarie
+- Eventi Culturali Montani
+- Attività Motorie e Sportive
+- Gestione e Valutazione Politiche Pubbliche
+- Efficienza Energetica Illuminazione
+
+### Macro categoria 25 — Eventi Culturali e Attività Sociali
+- Eventi Festivi e Ricreativi
+- Attività Educative e Sociali
+- Promozione Turistica Culturale
+
+### Macro categoria 26 — Supporto e Opportunità per Studenti
+- Formazione e Orientamento Scolastico
+- Accordi di tirocinio e stage
+- Sostegno Economico Studenti
+
+### Macro categoria 27 — Sviluppo e Supporto Comunitario
+- Sostegno e Sensibilizzazione Comunitaria
+- Gestione Appalti e Certificazioni
+- Organizzazione Eventi Comunitari
+- Promozione Servizi Familiari
+
+### Macro categoria 28 — Comunicazione, Coinvolgimento e Informazione Comunitaria
+- Comunicazione e Coinvolgimento Comunitario
+- Comunicazione e Informazione ai Cittadini
+- Gestione Comunicazione e Segnalazioni
+
+### Macro categoria 29 — Gestione Comunicazione Digitale Istituzionale
+- Gestione Comunicazione Digitale
+- Comunicazione e Informazione Istituzionale
 ## Contenuti della repository
 
 1. `model_generation.ipynb` : notebook per generare il modello di topic-modeling 
